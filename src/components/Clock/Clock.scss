@@ -1,0 +1,16 @@
+.clock {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    color: #fff;
+}
+
+.clock span {
+    font-size: 30px;
+}
+
+.clock h2 {
+    font-size: 48px;
+}

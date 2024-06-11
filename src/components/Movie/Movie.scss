@@ -1,0 +1,12 @@
+.movie {
+    display: flex;
+    gap: 50px;
+}
+
+.movie__right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 36px;
+    color: #fff;
+}

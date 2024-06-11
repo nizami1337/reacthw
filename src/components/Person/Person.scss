@@ -1,0 +1,12 @@
+.person {
+    display: flex;
+    gap: 50px;
+}
+
+.person__right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 36px;
+    color: #fff;
+}

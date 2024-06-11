@@ -1,0 +1,12 @@
+.pet {
+    display: flex;
+    gap: 50px;
+}
+
+.pet__right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 36px;
+    color: #fff;
+}
